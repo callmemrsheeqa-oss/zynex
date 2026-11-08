@@ -1,0 +1,6 @@
+{
+  "name": "ZYNEX",
+  "description": "Your intelligent personal assistant powered by Google Gemini. Fast, contextual, and helpful for writing, brainstorming, problem-solving, and explanations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
